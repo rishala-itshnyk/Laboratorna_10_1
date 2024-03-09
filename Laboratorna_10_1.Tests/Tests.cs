@@ -14,7 +14,7 @@ public class Tests
         try
         {
             bool result = Program.Check(filePath, word);
-            Assert.IsTrue(result, "Expected the file to contain all letters from the word 'while'.");
+            Assert.IsTrue(result);
         }
         finally
         {

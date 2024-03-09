@@ -1,5 +1,6 @@
 namespace Laboratorna_10_1.Tests;
 
+[TestFixture]
 public class Tests
 {
     [Test]
